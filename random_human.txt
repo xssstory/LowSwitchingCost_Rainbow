@@ -1,0 +1,57 @@
+alien 128.30 6,371.30
+amidar 11.79 1,540.43
+assault 166.95 628.89
+asterix 164.50 7,536.00
+asteroids 877.10 36,517.30
+atlantis 13,463.00 26,575.00
+bank heist 21.70 644.50
+battle zone 3,560.00 33,030.00
+beam rider 254.56 14,961.02
+berzerk 196.10 2,237.50
+bowling 35.16 146.46
+boxing -1.46 9.61 
+breakout 1.77 27.86
+centipede 1,925.45 10,321.89
+chopper command 644.00 8,930.00
+crazy climber 9,337.00 32,667.00
+defender 1,965.50 14,296.00
+demon attack 208.25 3,442.85
+double dunk -15.97 -14.37
+enduro -81.84 740.17
+fishing derby -77.11 5.09
+freeway 0.17 25.61
+frostbite 90.80 4,202.80
+gopher 250.00 2,311.00
+gravitar 245.50 3,116.00
+hero 1,580.30 25,839.40
+ice hockey -9.67 0.53
+jamesbond 33.50 368.50 
+kangaroo 100.00 2,739.00
+krull 1,151.90 2,109.10
+kung fu master 304.00 20,786.80
+montezuma revenge 25.00 4,182.00
+ms pacman 197.80 15,375.05
+name this game 1,747.80 6,796.00
+phoenix 1,134.40 6,686.20
+pitfall -348.80 5,998.91
+pong -17.95 15.46
+private eye 662.78 64,169.07
+qbert 159.38 12,085.00
+riverraid 588.30 14,382.20
+road runner 200.00 6,878.00
+robotank 2.42 8.94
+seaquest 215.50 40,425.80
+skiing -15,287.35 -3,686.58
+solaris 2,047.20 11,032.60
+space invaders 182.55 1,464.90
+star gunner 697.00 9,528.00
+surround -9.72 5.37
+tennis -21.43 -6.69
+time pilot 3,273.00 5,650.00
+tutankham 12.74 138.30
+up n down 707.20 9,896.10
+venture 18.00 1,039.00
+video pinball 0.00 15,641.09
+wizard of wor 804.00 4,556.00
+yars revenge 1,476.88 47,135.17
+zaxxon 475.00 8,443.00

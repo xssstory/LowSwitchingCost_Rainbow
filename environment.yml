@@ -1,0 +1,12 @@
+name: rainbow
+channels:
+  - pytorch
+dependencies:
+  - plotly
+  - pytorch
+  - tqdm
+  - pip:
+    - atari-py
+    - opencv-python
+    - whynot
+    - tensorflow==1.15

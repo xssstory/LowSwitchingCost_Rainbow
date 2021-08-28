@@ -1,0 +1,3 @@
+[submodule "gym-spesis"]
+	path = gym-sepsis
+	url = git@github.com:xssstory/gym-sepsis.git
